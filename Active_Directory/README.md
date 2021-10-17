@@ -1,4 +1,4 @@
-Directorio de Activos
+#Directorio de Activos
 
 1.  Descargar el Software de Windows server 2012, como es una versión
     gratuita o de prueba tendremos alrededor de 180 días para poder
